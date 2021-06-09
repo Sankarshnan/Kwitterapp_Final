@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to right top,rgb(248, 58, 0), rgb(250, 101, 2), rgb(248, 155, 4), #d3a21b, #eea806);
+    text-align: center;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}

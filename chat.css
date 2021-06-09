@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to right top,rgb(251, 255, 2), rgb(255, 238, 0), rgb(255, 217, 0), #e7ab05, #e7ab05);
+}
+.input_div_message_page #msg
+{
+	width: 50%; font-size: x-large; background-color:chartreuse;
+}
+
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 100%;
+    background-color:rgb(251, 255, 2);
+    font-size: large;
+    color: black; 
+}
+
+.message_h4
+{
+	padding-left:5px;color:grey; ;
+}
+
+.input_div_message_page label
+{
+	color: black;
+}
+
+.input_div_message_page
+{
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: rgb(251, 255, 2);
+    height: 150px;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+#send_label{
+    font-size: large; 
+    color: black;
+}
+
+#logout{
+    font-size: 20px; float: right;
+}
+
+#room_name{
+    background-color: white;
+}
